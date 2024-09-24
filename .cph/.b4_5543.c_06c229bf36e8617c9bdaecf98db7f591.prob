@@ -1,0 +1,1 @@
+{"name":"Local: b4_5543","url":"c:\\Users\\dbsdu\\code\\baekjoon\\b4_5543.c","tests":[{"id":1725362969634,"input":"800\n700\n900\n198\n330","output":""},{"id":1725363035997,"input":"1999\n1999\n100\n189\n100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dbsdu\\code\\baekjoon\\b4_5543.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: b2_5054","url":"c:\\Users\\dbsdu\\code\\baekjoon\\b2_5054.c","tests":[{"id":1725262204705,"input":"2\n4\n24 13 89 37\n6\n7 30 41 14 39 42","output":""},{"id":1725262269109,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dbsdu\\code\\baekjoon\\b2_5054.c","group":"local","local":true}

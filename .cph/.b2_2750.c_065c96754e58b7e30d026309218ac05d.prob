@@ -1,0 +1,1 @@
+{"name":"Local: b2_2750","url":"c:\\Users\\dbsdu\\code\\baekjoon\\b2_2750.c","tests":[{"id":1725362377585,"input":"5\n5\n2\n3\n4\n1","output":"1\n2\n3\n4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dbsdu\\code\\baekjoon\\b2_2750.c","group":"local","local":true}
