@@ -1,0 +1,1 @@
+{"name":"Local: s5_26042","url":"c:\\Users\\dbsdu\\code\\baekjoon\\s5_26042.c","tests":[{"id":1734950921541,"input":"5\n1 2\n1 1\n2\n1 3\n2","output":""},{"id":1734954799059,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dbsdu\\code\\baekjoon\\s5_26042.c","group":"local","local":true}
