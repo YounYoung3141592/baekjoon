@@ -1,0 +1,1 @@
+{"name":"Local: b3_25084","url":"c:\\Users\\dbsdu\\code\\baekjoon\\b3_25084.c","tests":[{"id":1735019331237,"input":"2\n1 3 6\n5 2 5","output":"Case #1: 31.415927\nCase #2: 455.530935"},{"id":1735019372700,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dbsdu\\code\\baekjoon\\b3_25084.c","group":"local","local":true}

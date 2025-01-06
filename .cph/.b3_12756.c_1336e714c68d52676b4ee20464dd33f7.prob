@@ -1,0 +1,1 @@
+{"name":"Local: b3_12756","url":"c:\\Users\\dbsdu\\code\\baekjoon\\b3_12756.c","tests":[{"id":1735191508679,"input":"4 12\n5 5","output":""},{"id":1735191514901,"input":"5 100\n10 50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dbsdu\\code\\baekjoon\\b3_12756.c","group":"local","local":true}
