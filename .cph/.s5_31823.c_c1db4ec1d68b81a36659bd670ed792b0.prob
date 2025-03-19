@@ -1,0 +1,1 @@
+{"name":"Local: s5_31823","url":"c:\\Users\\dbsdu\\code\\baekjoon\\s5_31823.c","tests":[{"id":1742367619399,"input":"8 5\nAAABBAAC\n1 3 8\n2 2 7\n1 1 8\n2 6 7\n1 1 8","output":""},{"id":1742367637532,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dbsdu\\code\\baekjoon\\s5_31823.c","group":"local","local":true}
